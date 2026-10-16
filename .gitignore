@@ -19,5 +19,6 @@ data/
 # Frontend and editors
 node_modules/
 dist/
+*.tsbuildinfo
 .idea/
 .vscode/
