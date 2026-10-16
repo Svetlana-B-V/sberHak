@@ -1,0 +1,24 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local settings and generated materials
+.env
+.env.*
+!.env.example
+data/
+!ml/data/
+!ml/data/**
+*.log
+
+# Frontend and editors
+node_modules/
+dist/
+*.tsbuildinfo
+.idea/
+.vscode/
